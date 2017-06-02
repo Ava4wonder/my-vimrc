@@ -1,3 +1,4 @@
+"JackieTseng 2017.05.27
 "source a global configuration file if available  
 if filereadable("/etc/vim/vimrc.local")  
 	source /etc/vim/vimrc.local  
